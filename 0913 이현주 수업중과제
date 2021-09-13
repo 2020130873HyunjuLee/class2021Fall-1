@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.3024036281179139 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phoneme" 
+        xmin = 0 
+        xmax = 1.3024036281179139 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05410079173472032 
+            text = "" 
+        intervals [2]:
+            xmin = 0.05410079173472032 
+            xmax = 0.1270099691974692 
+            text = " ᵊ " 
+        intervals [3]:
+            xmin = 0.1270099691974692 
+            xmax = 0.2165316735675192 
+            text = "m" 
+        intervals [4]:
+            xmin = 0.2165316735675192 
+            xmax = 0.43624544602223175 
+            text = "æ" 
+        intervals [5]:
+            xmin = 0.43624544602223175 
+            xmax = 0.49155585651121364 
+            text = "n" 
+        intervals [6]:
+            xmin = 0.49155585651121364 
+            xmax = 0.5569227052709196 
+            text = "i" 
+        intervals [7]:
+            xmin = 0.5569227052709196 
+            xmax = 0.6725717453842454 
+            text = "n" 
+        intervals [8]:
+            xmin = 0.6725717453842454 
+            xmax = 0.7329103750085892 
+            text = "ð" 
+        intervals [9]:
+            xmin = 0.7329103750085892 
+            xmax = 0.7932490046329332 
+            text = "ɔ" 
+        intervals [10]:
+            xmin = 0.7932490046329332 
+            xmax = 0.8485594151219151 
+            text = "h" 
+        intervals [11]:
+            xmin = 0.8485594151219151 
+            xmax = 1.0270611944272658 
+            text = "aʊ" 
+        intervals [12]:
+            xmin = 1.0270611944272658 
+            xmax = 1.2960709181691326 
+            text = "s" 
+        intervals [13]:
+            xmin = 1.2960709181691326 
+            xmax = 1.3024036281179139 
+            text = "" 
